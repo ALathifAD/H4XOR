@@ -22,9 +22,4 @@ Swift-Learning is a collection of simple iOS apps built using Swift. This reposi
 - **Firebase**: For authentication and real-time messaging.
 - **UIKit**: For building the user interface in all apps.
 
-## Installation 💻
 
-To run the projects locally, clone the repository and open each app's project file in Xcode:
-
-```bash
-git clone https://github.com/your-username/Swift-Learning.git
